@@ -30,8 +30,15 @@
 <h3>My Work</h3>
 <hr/>
 <h4>Portfolio Maker</h4>
-<img src="https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/fd447586-255d-4c0b-8556-48fea1311926" height="300" width="600">
+
+<a href="https://github.com/Nimisha-Mavar/Portfolio_Maker_BackEnd#readme">More details</a>
+
+https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/6be4c763-67c1-4fba-b90c-152a280fd6c8
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimisha-mavar&show_icons=true&locale=en&layout=compact" alt="nimisha-mavar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimisha-mavar&" alt="nimisha-mavar" /></p>
+
+
+
+
+
