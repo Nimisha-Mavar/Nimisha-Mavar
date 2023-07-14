@@ -39,11 +39,11 @@ https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/6be4c763-67c1-4f
 <a href="https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
 
 <h4>3. Fashion Blossom</h4>
-- This is my GitHub Contribution.
-- I have worked in authentication module(login and registration) using inbuilt Django authentication model and function.
-- I also worked in User Dashboard module using Django queries.
-- Technologies : Python, Django, Bootstrap, PostgreSQL, version control system Git.
-<a href="<a href="https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>">More details</a>
+- This is my GitHub Contribution.</br>
+- I have worked in authentication module(login and registration) using inbuilt Django authentication model and function.</br>
+- I also worked in User Dashboard module using Django queries.</br>
+- Technologies : Python, Django, Bootstrap, PostgreSQL, version control system Git.</br>
+<a href="https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
 
 <a href="https://github.com/Nimisha-Mavar/Portfolio_Maker_BackEnd#readme](https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
 
