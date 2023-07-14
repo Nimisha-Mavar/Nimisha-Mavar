@@ -43,9 +43,8 @@ https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/6be4c763-67c1-4f
 - I have worked in authentication module(login and registration) using inbuilt Django authentication model and function.</br>
 - I also worked in User Dashboard module using Django queries.</br>
 - Technologies : Python, Django, Bootstrap, PostgreSQL, version control system Git.</br>
-<a href="https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
+<a href="https://github.com/ZarnaPathak/Fashion_Blossom_Backend">More details</a>
 
-<a href="https://github.com/Nimisha-Mavar/Portfolio_Maker_BackEnd#readme](https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimisha-mavar&show_icons=true&locale=en&layout=compact" alt="nimisha-mavar" /></p>
 
