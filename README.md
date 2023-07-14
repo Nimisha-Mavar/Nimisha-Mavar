@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mavarnimisha95764@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eF15S8K8AGIh2Tn2NNY2pHaHOVANl3KP/view?usp=sharing](https://drive.google.com/file/d/1eF15S8K8AGIh2Tn2NNY2pHaHOVANl3KP/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1dIUEXAbnGfRCn5gK8IwojAfNXd-WzJ1T/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
