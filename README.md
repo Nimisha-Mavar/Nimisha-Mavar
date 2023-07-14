@@ -36,6 +36,14 @@
 https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/6be4c763-67c1-4fba-b90c-152a280fd6c8
 
 <h4>2. Postify</h4>
+A Postify is a site that provide basic functionality like Login, Logout, Create Post, Like and Unlike post.<br/>
+- I created Postify as a part of react learning.<br/>
+- Technologies :<br/>
+Client: React Js, Bootstrap<br/>
+Server: Firebase<br/>
+Database: Firestore(NoSql)<br/>
+Deployment: Firebase<br/>
+Live Demo - https://social-media-site-846b2.web.app/ <br/>
 <a href="https://github.com/Nimisha-Mavar/Social-Media-Site#readme">More details</a>
 
 <h4>3. Fashion Blossom</h4>
