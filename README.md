@@ -1,18 +1,18 @@
 ![Nimisha](https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/85ff5d15-2623-486f-9624-7519499a2a0f)
 
 <h1 align="center">Hi 👋, I'm Nimisha Mavar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer from India</h3>
 <img src="https://camo.githubusercontent.com/bebb8c335f407e6f31ed9da75ebecc86cebc8941efae0ec924b6903b3fbb94c5/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-mavar&label=Profile%20views&color=0e75b6&style=flat" alt="nimisha-mavar" /> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Machine Learning, MERN**
 
-- 👯 I’m looking to Internship on **React and Python**
+- 👯 I’m looking to Internship on **Python and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nimisha-Mavar?tab=repositories](https://github.com/Nimisha-Mavar?tab=repositories)
 
-- 💬 Ask me about **react, python**
+- 💬 Ask me about **react, python and machine learning**
 
 - 📫 How to reach me **mavarnimisha95764@gmail.com**
 
