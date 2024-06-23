@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimisha-mavar&label=Profile%20views&color=0e75b6&style=flat" alt="nimisha-mavar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, MERN**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to Internship on **Python and Machine Learning**
+- 👯 I’m looking to Internship on **Python,React and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nimisha-Mavar?tab=repositories](https://github.com/Nimisha-Mavar?tab=repositories)
 
