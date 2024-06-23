@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Nimisha Mavar</h1>
 <h3 align="center">A passionate Developer from India</h3>
+<img align="right" width="350" height="350"  style="border-radius:50%" src="https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/09ee9499-273a-4e6e-a3d3-481fe34793fb" border="5px">
+<h3></h3>
 
-<img align="right" width="400" height="400" src="https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/09ee9499-273a-4e6e-a3d3-481fe34793fb">
-- 🌱 I’m currently learning **Machine Learning**
+-  🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to Internship on **Python,React and Machine Learning**
 
