@@ -5,6 +5,8 @@
 <img align="right" width="350" height="350"  style="border-radius:50%" src="https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/09ee9499-273a-4e6e-a3d3-481fe34793fb" border="5px">
 <h3></h3>
 
+🚀 Passionate software developer with a BCA and hands-on experience at IBM as a GenAI and Data Science Intern. 💻 Skilled in C, C++, Python, and web technologies like MERN, Django, and ReactJs. 🌟 Led projects such as Tomato Leaf Disease Prediction 🌱, Portfolio Maker 📂, and Postify 📲. Knowledgeable in machine learning, deep learning, and generative AI 🤖. Enthusiastic about leveraging tech to solve real-world problems and always eager for new challenges. 🌐✨
+
 -  🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to Internship on **Python,React and Machine Learning**
@@ -15,7 +17,6 @@
 
 - 📫 How to reach me **mavarnimisha95764@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1dIUEXAbnGfRCn5gK8IwojAfNXd-WzJ1T/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
