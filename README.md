@@ -1,4 +1,5 @@
-![Nimisha](https://github.com/Nimisha-Mavar/Nimisha-Mavar/assets/112267753/85ff5d15-2623-486f-9624-7519499a2a0f)
+![image](https://github.com/user-attachments/assets/6dbc3a21-59e1-42ac-8252-2cc184f64552)
+
 
 <h1 align="center">Hi 👋, I'm Nimisha Mavar</h1>
 
